@@ -1,6 +1,6 @@
 #pragma once
+#include "WinK3D.h"
 #include <unordered_map>
-#include <Windows.h>
 #include <string>
 #include <sstream>
 #include <iomanip>
